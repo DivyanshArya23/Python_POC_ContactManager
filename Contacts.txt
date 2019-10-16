@@ -1,0 +1,15 @@
+*********************CONTACT MANAGER*********************
+
+
+
+--x----x----x----x----x----x----x--
+NAME:Divyansh Arya
+CONTACT No.1234567890
+
+--x----x----x----x----x----x----x--
+NAME:Lavi Sharma
+CONTACT No.9876543210
+
+--x----x----x----x----x----x----x--
+NAME:Unknown Person
+CONTACT No.9999888877
